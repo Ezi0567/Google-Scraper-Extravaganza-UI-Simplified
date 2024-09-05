@@ -1,0 +1,11 @@
+{
+  "query": "Cancelled car insurance",
+  "num_pages": 2,
+  "domains": [
+    "google.com",
+    "google.co.uk"
+  ],
+  "geolocations": [
+    "uk"
+  ]
+}
