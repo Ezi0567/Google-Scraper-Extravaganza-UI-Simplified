@@ -4,11 +4,7 @@ Welcome to the ultimate Google Scraper! This script is your ticket to scraping G
 
 ## 🕵 What Does It Do?
 
-- **Search Google**: Scrapes results from `google.com` using the `gl` parameter to target different countries.
-- **Collect Data**: Gathers search result titles, URLs, and descriptions.
-- **Save Results**: Dumps the data into CSV files for easy viewing and analysis.
-- **Multi-threaded**: Blazing fast with multi-threading to get your data in no time.
-- **Rate Limiting**: Smart delays to keep you under Google's radar and avoid bans.
+My scraper takes your query and searches across Google’s .com and .co.uk domains. It’s designed to fetch results from various pages and save them in neatly organised CSV files. No proxies, no VPNs—just pure scraping goodness!
 
 ## Features 🎉
 
