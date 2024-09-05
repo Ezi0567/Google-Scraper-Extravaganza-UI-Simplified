@@ -1,6 +1,6 @@
 # 🚀 Google Scraper Extravaganza!
 
-Welcome to the ultimate Google Scraper! 🚀 This script is your ticket to scraping Google search results like a pro. Whether you're gathering data for research, a project, or just for the thrill of it, you've come to the right place!
+Welcome to the ultimate Google Scraper! This script is your ticket to scraping Google search results like a pro. Whether you're gathering data for research, a project, or just for the thrill of it, you've come to the right place!
 
 ## 🕵 What Does It Do?
 
@@ -21,10 +21,16 @@ Welcome to the ultimate Google Scraper! 🚀 This script is your ticket to scrap
 
 1. **Clone Or Download The Repository**
 
+
 ```bash
 git clone https://github.com/recycledrobot/google-scraper.git
 cd google-scraper
 ```
+
+OR
+
+https://github.com/recycledrobot/Google-Scraper-Extravaganza/archive/refs/heads/main.zip
+
 
 2. **Install Dependencies**
 
