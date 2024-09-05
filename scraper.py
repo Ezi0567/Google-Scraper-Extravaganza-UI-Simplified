@@ -80,7 +80,7 @@ def parse_results(html, page):
 
 def save_results(results, query, domain):
     """Saves the scraped results to a CSV file."""
-    filename = f"results/{datetime.now().strftime('%Y-%m-%d')}_{domain}_{query}.csv"
+    filename = os.path.join("results", f"{datetime.now().strftime('%Y-%m-%d')}_{domain}_{query}.csv")
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
