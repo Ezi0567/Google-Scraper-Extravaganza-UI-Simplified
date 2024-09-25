@@ -43,7 +43,7 @@ OR
 Launch the UI with a simple command:
 
 ```bash
-python scraper_ui.py
+python scraper.py
 ```
 
 A graphical interface will pop up, allowing you to input search queries, select domains, choose geolocations, and configure the number of pages to scrape.
