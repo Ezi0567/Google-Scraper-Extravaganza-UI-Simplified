@@ -21,11 +21,11 @@ This UI-based scraper allows you to specify search queries, select geolocations,
 Clone the repository or download it as a ZIP file:
 
 ```bash
-git clone https://github.com/recycledrobot/google-scraper-ui.git
-cd google-scraper-ui
+git clone https://github.com/Ezi0567/Google-Scraper-Extravaganza-UI-Simplified.git
+cd Google-Scraper-Extravaganza-UI-Simplified
 ```
 
-OR [Download the ZIP](https://github.com/recycledrobot/Google-Scraper-Extravaganza/archive/refs/heads/main.zip)
+OR [Download the ZIP](https://github.com/Ezi0567/Google-Scraper-Extravaganza-UI-Simplified/archive/refs/heads/main.zip)
 
 ### 2. Install Dependencies
 
@@ -34,6 +34,9 @@ Ensure you have Python installed, then run the following command to install the 
 ```bash
 pip install -r requirements.txt
 ```
+OR 
+
+*Install Requirements using the provided button after installing python and running the script*
 
 ### 3. Run the Scraper
 
@@ -63,4 +66,3 @@ Your results will be neatly saved in Excel (.xlsx) format under the `results` fo
 ---
 
 Enjoy using the **Google Scraper Extravaganza (UI Version)**, and feel free to contribute or report issues!
-
