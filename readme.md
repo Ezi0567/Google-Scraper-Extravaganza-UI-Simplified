@@ -11,7 +11,8 @@ My scraper takes your query and searches across Google’s .com and .co.uk domai
 - Direct Search: Scrape results directly from Google’s .com and .co.uk domains.
 - Multiple Pages: Fetch results from multiple pages of search results.
 - Geolocation Targeting: Target results based on specific regions (e.g., US, UK).
-- CSV Output: Results are saved in easily accessible CSV files.
+- XLSX Output: Results are saved in easily accessible XLSX files (allowing for better ordered data storage).
+- UI: UI made using Tkinter for easier usage for non-technical users.
 
 ## 🔧 How To Get Started
 
