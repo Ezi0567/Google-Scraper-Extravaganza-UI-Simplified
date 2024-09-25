@@ -2,10 +2,27 @@
   "query": "Cancelled car insurance",
   "num_pages": 2,
   "domains": [
-    "google.com",
-    "google.co.uk"
+   "google.com",
+    "google.co.uk",
+    "google.ca",
+    "google.com.au",
+    "google.fr",
+    "google.de",
+    "google.it",
+    "google.es",
+    "google.in",
+    "google.co.in"
   ],
   "geolocations": [
-    "uk"
+    "us",
+    "uk",
+    "ca",
+    "au",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "in",
+    "br"
   ]
 }
